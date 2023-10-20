@@ -1,4 +1,4 @@
-
+# Student-Management-System
 Features
 The Student Management System provides the following features:
 
@@ -15,9 +15,9 @@ Access the application in your web browser at http://localhost:8080.
 
 Use the navigation menu to access the various features: "List Students," "Add Student," "Update Student," and "Delete Student."
 
-![image](https://github.com/aknajardhane/Student-Management-System/assets/84505385/625637a2-732f-45ca-bf97-2d22dcd21e5e)# Student-Management-System
+![image](https://github.com/aknajardhane/Student-Management-System/assets/84505385/625637a2-732f-45ca-bf97-2d22dcd21e5e)
 
 
-![Screenshot 2023-10-20 132639](https://github.com/aknajardhane/Student-Management-System/assets/84505385/bd85f8aa-da67-4665-868e-8ebad733662e)
-![Screenshot 2023-10-20 132705](https://github.com/aknajardhane/Student-Management-System/assets/84505385/c7e0490a-e31a-4364-b42e-83d4bf619ca7)
-![Screenshot 2023-10-20 132742](https://github.com/aknajardhane/Student-Management-System/assets/84505385/3107e023-ef93-4ba1-9da5-1023258eb7a8)
+![Screenshot] (https://github.com/aknajardhane/Student-Management-System/assets/84505385/bd85f8aa-da67-4665-868e-8ebad733662e)
+![Screenshot ](https://github.com/aknajardhane/Student-Management-System/assets/84505385/c7e0490a-e31a-4364-b42e-83d4bf619ca7)
+![Screenshot ](https://github.com/aknajardhane/Student-Management-System/assets/84505385/3107e023-ef93-4ba1-9da5-1023258eb7a8)
